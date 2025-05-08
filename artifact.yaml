@@ -1,0 +1,12 @@
+- app: BruckeStatsService
+  groupId: com.apple.store.brucke.platform
+  artifactId: BruckeStatsService
+  version: 2025.5.0
+- app: CommitCodeFeedWriter
+  groupId: com.apple.store.feeds
+  artifactId: CommitCodeFeedWriter
+  version: 2025.4.0
+- app: ContentAuthoringService
+  groupId: com.apple.store.content
+  artifactId: ContentAuthoringService
+  version: 2025.5.7
